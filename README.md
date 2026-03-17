@@ -1,4 +1,4 @@
-# 🚀 BlockchainX - Interactive Blockchain Simulator & Visualizer
+# 🚀 BlockSim - Interactive Blockchain Simulator & Visualizer
 
 
 BlockSim is an **interactive blockchain simulator** built with **Next.js** that helps users **visualize block mining, create transactions, and manage wallets in real-time**. This project is ideal for those looking to **understand basics of blockchain technology, Bitcoin mining, and the Proof-of-Work (PoW) mechanism** with hands-on experience.
@@ -21,7 +21,7 @@ BlockSim is an **interactive blockchain simulator** built with **Next.js** that 
 
 - **Frontend:** Next.js (React), TypeScript, Tailwind CSS, shadcn/ui  
 - **Blockchain Mechanism:** JavaScript-based Proof-of-Work, SHA-256 hashing algorithm, crypto-js library for encryption, uuid library for unique identifiers.  
-- **Hosting:** Github Pages using Github Actions  
+- **Hosting:** Github Pages using Vercel  
 
 ---
 
