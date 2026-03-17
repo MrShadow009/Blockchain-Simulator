@@ -3,7 +3,7 @@
 
 BlockSim is an **interactive blockchain simulator** built with **Next.js** that helps users **visualize block mining, create transactions, and manage wallets in real-time**. This project is ideal for those looking to **understand basics of blockchain technology, Bitcoin mining, and the Proof-of-Work (PoW) mechanism** with hands-on experience.
 
-🔗 **Live Demo:** [BlockchainX](https://blockchain-simulator-kappa.vercel.app/)
+🔗 **Live Demo:** [BlockSim](https://blockchain-simulator-kappa.vercel.app/)
 
 ---
 
